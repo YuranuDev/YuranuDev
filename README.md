@@ -56,24 +56,6 @@ implementations myself.
   <img src="https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white">
 </p>
 
----
-
-## 📊 GitHub
-
-<p align="center">
-  <img height="180"
-    src="https://github-stats-extended.vercel.app/api?username=YuranuDev&show_icons=true&theme=transparent">
-
-  <img height="180"
-    src="https://github-stats-extended.vercel.app/api/top-langs/?username=YuranuDev&layout=compact&langs_count=8&theme=transparent">
-</p>
-
-<p align="center">
-  <img src="./activity.svg" alt="GitHub Contribution Graph">
-</p>
-
----
-
 ## 🚀 Projects
 
 | 🎮 Game Development | 🕹️ VRChat |
